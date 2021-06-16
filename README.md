@@ -1,8 +1,12 @@
 # 🎨 Portfolio Example
 
 ## Using static site builder Astro
-
+https://astro.build/blog/introducing-astro
+https://github.com/snowpackjs/astro
+https://twitter.com/astrodotbuild
+https://www.learnwithjason.dev/ship-less-javascript-with-astro
 https://css-tricks.com/newsletter/255-thoughts-on-astro/
+https://aseemtaneja.com/why-i-built-my-blog-with-astro/
 
 
 In Astro, you compose your website using UI components from your favorite JavaScript web framework (React, Svelte, Vue, etc). Astro renders your entire site to static HTML during the build. The result is a fully static website with all JavaScript removed from the final page. No monolithic JavaScript application required, just static HTML that loads as fast as possible in the browser regardless of how many UI components you used to generate it
